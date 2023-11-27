@@ -1,0 +1,28 @@
+body {
+  margin: 100px 50px;
+  background-color: #c0c0c0;
+  padding: 50px 40px;
+}
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+}
+.invisible {
+  display: none;
+}
+.loadWrapper {
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+}
+.cat-info {
+  display: flex;
+  gap: 40px;
+  padding-left: 50px;
+}
+.cat-info-desc {
+  width: 400px;
+  line-height: 120%;
+}
+
